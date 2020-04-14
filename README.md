@@ -1,1 +1,1 @@
-# goit-js-hw-12-countries
+> [gh-pages](https://romashka093.github.io/goit-js-hw-12-countries/)

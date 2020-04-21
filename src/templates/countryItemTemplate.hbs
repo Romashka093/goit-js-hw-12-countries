@@ -1,9 +1,11 @@
 {{#each this}}
 <li class="country-info">
     <div class="info-conteiner">
-        <h2 class="name">{{name}}</h2>
-        <p class="capital">Capital: {{capital}}</p>
-        <p class="population">Population: {{population}}</p>
+        <h3 class="name">{{name}}</h3>
+        <h4 class="capital">Capital: <span>{{capital}}</span>
+        </h4>
+        <h4 class="population">Population: <span>{{population}}</span>
+        </h4>
         <ul class="languages-list">Languages:
             {{#each languages}}
             <li class="languages">{{this.name}}</li>

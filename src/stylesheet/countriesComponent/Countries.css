@@ -1,18 +1,17 @@
-
 .container {
     margin: 0 auto;
     margin-top: 20px;
     text-align: center;
     font-family: "Exo", sans-serif;
     color: #1b262c;
-  }
-  
-  .inputName {
+}
+
+.inputName {
     margin-bottom: 20px;
     font-style: normal;
-  }
-  
-  .form {
+}
+
+.form {
     width: 900px;
     padding: 10px;
     font-style: italic;
@@ -21,40 +20,39 @@
     box-shadow: 0 1px 2px #00000033 inset, 0 -1px 0 #0000000d inset;
     margin-bottom: 20px;
     font-size: 16px;
-  }
-  
-  .form::placeholder {
+}
+
+.form::placeholder {
     padding-left: 5px;
-  }
-  
-  .country {
+}
+
+.country {
     width: 70%;
     margin: 0 auto;
-  }
-  
-  .country-info {
+}
+
+.country-info {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 0 auto;
-  }
-  
-  .info-conteiner {
+}
+
+.info-conteiner {
     text-align: left;
     line-height: 2;
-  }
-  
-  .languages {
+}
+
+.languages {
     padding-left: 10px;
-  }
-  
-  .flag {
+}
+
+.flag {
     border: solid 1px #1b262c;
-  }
-  
-  .countries {
+}
+
+.countries {
     width: 800px;
     margin: 0 auto;
     text-align: left;
-  }
-  
+}

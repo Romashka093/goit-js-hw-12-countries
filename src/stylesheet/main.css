@@ -30,5 +30,6 @@
   }
 
   .body {
-    background-image: url('../accets/images/bg-pattern.png');
+    /* background-image: url('../accets/images/bg-pattern.png'); */
+    background: linear-gradient(90deg, #bbe1fa, #43b1fa);
   }
